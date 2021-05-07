@@ -1,0 +1,6 @@
+yayay	    ipa	        98
+putri		matdis		100
+sayaa		pbo		    98
+Syahrul		pbo		    100
+Pangestu	pbo			100
+Syahrul		pbo			0
